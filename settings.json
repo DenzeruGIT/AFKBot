@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "NotchTips", 
     "password": "",
     "type": "mojang"
   },
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "AFKBotMOUSHIMASU"
+      "password": "NotchTipstomoushimasu"
     },
 
     "anti-afk": {
@@ -34,12 +34,58 @@
       "repeat": true,
       "repeat-delay": 60,
 
-      "messages": [
-        "I'm a regular player",
-        "Subscibe To Slobos!",
-        "I Like to Play Minecraft!"
+     "messages": [
+        "In Strenilla SMP: Killing a player grants +1 Strength. Dying loses you -1 Strength!",
+        "Stuck at Strength 0? Hunt for a Mace in a Trial Chamber to turn the tide of any fight.",
+        "Crouch-walking on Wool prevents the Warden from hearing you in the Deep Dark.",
+        "Turn Mud into Clay by placing it on a block with Pointed Dripstone underneath.",
+        "The Mace deals more damage the further you fall—it can potentially one-shot any mob.",
+        "Wind Charges launch you into the air; use them to safely escape or reset fall damage.",
+        "Feeding a Frog a small Magma Cube causes it to drop a colorful, glowing Froglight.",
+        "Taming an Allay with a Cookie lets you give it an item to find and collect for you.",
+        "Ominous Bottles trigger 'Trial Omen,' turning standard spawners into high-tier challenges.",
+        "In Strenilla, your Strength is your life. Watch your back—others are hunting your points!",
+        "The Mace's 'Density' enchantment increases the bonus damage dealt for every block fallen.",
+        "Use 'Wind Burst' on a Mace to bounce back into the air after a successful smash attack.",
+        "Potions of Infestation give a 10% chance to spawn Silverfish whenever the entity takes damage.",
+        "Drinking a Potion of Oozing causes an entity to spawn two Slimes upon its death.",
+        "Weaving Potions allow entities to move through Cobwebs faster and spawn them when they die.",
+        "A Potion of Wind Charged causes an entity to release a wind burst explosion when it perishes.",
+        "Trial Chamber 'Vaults' can be opened once per player—don't forget your Trial Key!",
+        "Breeding two Frogs with Slimeballs creates 'Frogspawn' which must hatch in water.",
+        "You can shear a Bogged skeleton to make it drop mushrooms and reveal its mossy head.",
+        "Placing a Mob Head on a Note Block allows the Note Block to play that mob's ambient sound.",
+        "The Recovery Compass only works in the dimension where you last died.",
+        "Sniffers find 'Ancient Seeds' like Torchflowers that don't grow naturally in the world.",
+        "Trial Spawners scale rewards based on the number of players nearby—bring a team!",
+        "Wind Charges can activate buttons, levers, and trapdoors from a distance.",
+        "Applying a Honeycomb to a Sign (Waxing) prevents anyone from editing the text further.",
+        "The Breeze is immune to projectiles; you must use melee or reflected Wind Charges.",
+        "Mangrove Propagules can be planted and grown underwater unlike most other saplings.",
+        "Camels are tall enough that Zombies and Creepers cannot reach you while you are riding.",
+        "Chiseled Bookshelves output a Redstone signal based on the last book slot you touched.",
+        "Tadpoles grow into different Frog colors based on the temperature of their biome.",
+        "Copper Bulbs have a unique delay when toggling, based on their current oxidation level.",
+        "Scrape oxidized Copper blocks with an Axe to return them to their shiny orange state.",
+        "The 'Swift Sneak' enchantment is an Ancient City exclusive and lets you crouch at walking speed.",
+        "Echo Shards are rare loot from Ancient Cities used specifically to craft Recovery Compasses.",
+        "Armor Trims are purely cosmetic—they show off your rarest loot to other players.",
+        "Vaults in Trial Chambers give every player unique loot; you don't have to share the reward!",
+        "The Crafter block can automate any recipe when powered by a Redstone pulse.",
+        "To find the End Gateway easily, turn your brightness to 'Moody' to spot the light source.",
+        "Horses and Camels no longer sink in water while being ridden by a player.",
+        "Netherite Horse Armor provides 19 armor points and is crafted at a Smithing Table.",
+        "Tamed Nautilus can be mounted with a Saddle and grant 'Breath of the Nautilus' effects.",
+        "Zombies and Piglins now have a chance to spawn wielding a high-reach Spear.",
+        "Spears have two attacks: a quick Jab and a high-damage, view-velocity based Charge.",
+        "Camel Husks are a new undead variant that spawn in Deserts at 0 light level.",
+        "Hoppers have a short cooldown after being moved by a Piston to prevent duplication bugs.",
+        "Cloud movement is now synchronized across all players on a server.",
+        "Items no longer 'bob' in your hand when their durability changes from damage or Mending.",
+        "You can rebind debug keys (F3 features) in the new Debug category of the Key Binds screen.",
+        "Environmental Fog in the Nether is no longer tied to your render distance setting.",
+        "The color of sunrises and sunsets is now dynamically affected by rain and thunder."
       ]
-    },
 
     "chat-log": true,
     "auto-reconnect": true,
