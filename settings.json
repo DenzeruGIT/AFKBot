@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "NotchTips", 
+    "username": "TipsfromNotch", 
     "password": "",
     "type": "mojang"
   },
@@ -55,7 +55,7 @@
         "Brushing Suspicious Sand in a Desert Well is the only way to find certain rare Pottery Sherds.",
         "Camels are so tall that most melee mobs, like Zombies and Creepers, cannot reach you while riding.",
         "Chiseled Bookshelves output a Redstone signal based on which book slot was last interacted with.",
-        "Tadpoles will grow into different colored Frogs depending on the temperature of the biome they are in.",
+        "Tadpoles will grow into different colored Frogs depending on the temperature of their biome.",
         "Copper Bulbs have a unique delay when turning on/off based on their level of oxidation.",
         "You can 'scrape' oxidized Copper blocks with an Axe to return them to their original shiny orange.",
         "The 'Swift Sneak' enchantment is exclusive to Ancient Cities and lets you crouch-walk at walking speed.",
@@ -64,7 +64,27 @@
         "Trial Chambers are built mostly of Copper and Tuff; look for those blocks deep underground to find one.",
         "If an Allay is near a playing Jukebox, it will perform a 'dance' animation.",
         "The Crafter block can automate any recipe in the game when powered by a Redstone clock.",
-        "Vaults in Trial Chambers can be opened by every player once, so you don't have to fight over loot."
+        "Vaults in Trial Chambers can be opened by every player once, so you don't have to fight over loot.",
+        "The 'Wind Burst' enchantment on a Mace allows you to bounce back into the air after a hit.",
+        "Applying Density V to a Mace increases damage per block fallen by 2.5 points—deadly with Strength 5!",
+        "Potions of Oozing cause entities to spawn two medium slimes upon death—great for farm automation.",
+        "Weaving Potions allow you to move through cobwebs at 50% speed instead of the usual 25%.",
+        "The 'Infestation' potion effect has a 10% chance to spawn silverfish when the entity takes damage.",
+        "You can use a Wind Charge to reset your fall distance if you time the jump right before hitting the ground.",
+        "Trial Omen causes Trial Spawners to fire projectiles and potions at players while spawning mobs.",
+        "Heavy Cores, needed for the Mace, only have a 2.2% chance to drop from an Ominous Vault.",
+        "Copper Bulbs do not let light pass through them, making them perfect for hidden redstone toggles.",
+        "Bogged skeletons fire arrows of poison—keep honey bottles or milk nearby when exploring swamps.",
+        "You can 'wax' Copper Bulbs with Honeycomb to lock them at a specific oxidation (and speed) level.",
+        "The Flow armor trim is only found in Ominous Vaults and is considered one of the rarest in 1.21.",
+        "Armadillos drop Scutes when brushed, which are used to craft Wolf Armor for your tamed dogs.",
+        "Wolf Armor can be dyed any of the 16 colors, just like leather armor!",
+        "The 'Breach' enchantment for the Mace ignores 15% of an enemy's armor per level.",
+        "Wind Charges deal knockback but very little damage, making them safe for 'TNT-style' player jumps.",
+        "Trial Spawners enter a 30-minute cooldown after being defeated before they can be played again.",
+        "The 'Precipice' music disc is only found in standard Vaults, while 'Creator' is in Ominous Vaults.",
+        "Calamite and Pyrite are the two new pottery sherds added to the Trial Chamber loot pools.",
+        "Mace smash attacks completely negate fall damage if you successfully land the hit on a target."
       ]
     },
 
