@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "God", 
+    "username": "GodV2", 
     "password": "",
     "type": "mojang"
   },
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "NotchTipsiestatodesunanoka1234"
+      "password": "NotchTipdesunanoka1234"
     },
 
     "anti-afk": {
