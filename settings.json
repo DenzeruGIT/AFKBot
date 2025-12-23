@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "GodV2", 
+    "username": "GodV3", 
     "password": "",
     "type": "mojang"
   },
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "NotchTipdesunanoka1234"
+      "password": "NotchTipistdesunanoka1234"
     },
 
     "anti-afk": {
@@ -32,7 +32,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 480,
+      "repeat-delay": 1920,
 
       "messages": [
         "Wool blocks and carpets can be used to 'vibration-proof' your Redstone contraptions near Sculk.",
