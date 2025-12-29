@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "GodV3", 
+    "username": "God", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "strenillasmp.falixsrv.me", 
-    "port": 39688,   
+    "ip": "65.21.67.153", 
+    "port": 40838,   
     "version": "1.12.1"   
   },
   
