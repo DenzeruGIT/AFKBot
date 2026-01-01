@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "node-fi-free-02.tickhosting.com", 
+    "ip": "nodg.com", 
     "port": 40838,   
     "version": "1.12.1"   
   },
